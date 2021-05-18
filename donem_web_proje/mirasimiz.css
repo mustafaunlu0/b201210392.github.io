@@ -1,0 +1,21 @@
+body{
+     background-color: #4a503d;
+}
+.content {
+    width: 70%;
+    height: 70%;
+    background-color: #8e9775;
+    padding: 10px;
+    margin-left: 13%;
+    margin-top: 20px;
+}
+
+img {
+    width: 930px;
+    height: 550px;
+    margin-top: 5%;
+}
+.youtube,img{
+    width: 100%;
+    
+}

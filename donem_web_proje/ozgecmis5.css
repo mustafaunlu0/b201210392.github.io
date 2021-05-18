@@ -1,0 +1,38 @@
+body{
+    background-color: #4a503d;
+    
+}
+main {
+    width: 70%;
+    height: 70%;
+    background-color: #8e9775;
+    padding: 10px;
+    margin-left: 13%;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+   
+    
+}
+
+h1,
+h3,
+section {
+    margin-left: 15%;
+}
+
+    @media screen and (min-width: 650px){
+    img{
+        border-radius: 50%;
+    overflow: hidden;
+    width: 173px;
+    height: 186px;
+    margin-left: 50%;
+    margin-top: -21%;
+    }
+    }

@@ -1,0 +1,34 @@
+body{
+    background-color: #4a503d;
+}
+.content {
+    width: 70%;
+    height: 70%;
+    padding: 10px;
+    margin-left: 13%;
+    margin-top: 20px;
+}
+
+table {
+  
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 15px;
+    text-align: left;
+}
+#iletisimBilgi {
+    text-align: center;
+}
+#form {
+   
+ 
+}
